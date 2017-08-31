@@ -1,0 +1,15 @@
+{
+  "name": "json-server-live",
+  "version": "1.0.0",
+  "description": "json-server to Heroku",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": ""
+  },
+  "author": "codedavinci",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.9.6"
+  }
+}
